@@ -1,0 +1,2 @@
+# spark_hive_metastore_cluster
+spark_hive_metastore_cluster
